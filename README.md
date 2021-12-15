@@ -1,2 +1,0 @@
-# proyek
-Project.py
